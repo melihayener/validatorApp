@@ -1,0 +1,19 @@
+{
+  "name": "lib_validationcreditcard",
+  "version": "1.0.2",
+  "description": "kredi kartı doğrulama kütüphanesi",
+  "main": "isValidCardNumber.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "creditcard",
+    "validation",
+    "doğrulama"
+  ],
+  "author": "melihayener",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
